@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar {
+  background-color: #838ade;
+}
+
+.category-aktif {
+  background-color: #838ade;
+  color: white;
+}
+
+.btn-primary{
+  background-color: #838ade;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.menu-card {
+  height: 100%;
+}
+
+.ktext{
+  font-size: 14px;
+  color: #777;
+}
